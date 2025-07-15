@@ -120,7 +120,8 @@
 
 **Диаграмма контейнеров (Containers)**
 
-Добавьте диаграмму.
+<img width="1126" height="1279" alt="new1" src="https://github.com/user-attachments/assets/02647207-c051-436b-b79c-5fa412115a41" />
+
 
 **Диаграмма компонентов (Components)**
 
