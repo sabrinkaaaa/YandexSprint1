@@ -125,11 +125,13 @@
 
 **Диаграмма компонентов (Components)**
 
-Добавьте диаграмму для каждого из выделенных микросервисов.
+<img width="877" height="1360" alt="new2" src="https://github.com/user-attachments/assets/a8f8ee71-bcd0-4a18-afad-3ee24cce197d" />
+
 
 **Диаграмма кода (Code)**
 
-Добавьте одну диаграмму или несколько.
+<img width="1045" height="668" alt="new2-_ScenarioService" src="https://github.com/user-attachments/assets/a51fda63-6bcf-4116-8ddc-acfda160d5c2" />
+
 
 # Задание 3. Разработка ER-диаграммы
 
